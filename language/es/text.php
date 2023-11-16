@@ -125,7 +125,7 @@ $hesklang['back']='Volver atrás';
 $hesklang['displaying_pages']='Viendo <b>%d</b> tickets. Páginas:';
 $hesklang['trackID']='ID de seguimiento';
 $hesklang['timestamp']='Fecha y hora';
-$hesklang['name']='Nombre';
+$hesklang['name']='Estación';
 $hesklang['subject']='Asunto';
 $hesklang['status']='Estado';
 $hesklang['priority']='Prioridad';
@@ -1633,7 +1633,7 @@ $hesklang['err_site_theme']='Por favor, seleccione el tema de Hesk';
 $hesklang['confirm']='Confirmar';
 $hesklang['confirm_deletion']='Confirmar eliminación';
 $hesklang['confirm_delete_status']='¿Está seguro de que quiere borrar este estado personalizado?';
-$hesklang['help_desk']='Help Desk'; // Displayed on staff sidebar menu
+$hesklang['help_desk']='Soporte THN'; // Displayed on staff sidebar menu
 
 // Added in version 3.1.0
 $hesklang['TIMEAGO_LANG_FILE']='jquery.timeago.es.js'; // Name of the proper language file in folder /js/timeago/locales
